@@ -67,12 +67,15 @@ a:hover {
 }
 
 /*main box container for each page*/
+.centerbox {
+    text-align: center;
+}
 .content-box {
     background: #ffffff;
-    margin-left: 225px;
+    align-items: center;
     margin-top: 125px;
     margin-bottom: 80px; 
-    line-height: 30px;
+    line-height: 15px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #050301;
     font-size: 14px;
@@ -82,6 +85,7 @@ a:hover {
     border: 2px solid #a35c00;
     border-radius: 4px;
     box-sizing: border-box;
+}
 }
 hr {
     border-color: #050301;
