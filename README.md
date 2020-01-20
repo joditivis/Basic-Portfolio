@@ -1,9 +1,11 @@
 # Basic-Portfolio
 
-I'm not totally sure what I am supposed to write in here but here we go!
+ __Link to Webpage: https://joditivis.github.io/Basic-Portfolio/__
 
-I wrote 3 different HTML files to create each page that can be accessed through the navigation menu.
+# About:
+University of Denver Coding Boot Camp first week assignment: Required the use of HTML and CSS to format the layout and style of our Student Portfolio. 
 
-Each HTML file is connected to my style.css used to make the page look pretty!
+__Tools + Languages Used:__
 
-I found my photos from unsplash.com
+* HTML5
+* Custom CSS
